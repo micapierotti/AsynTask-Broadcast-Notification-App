@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsynTask Broadcast Notification App</string>
+    <string name="presione_el_bot_n_para_recibir_una_notificaci_n_en_3_segundos">Presione el botón para recibir una notificación en 3 segundos</string>
+    <string name="lalala">lalala</string>
+</resources>
